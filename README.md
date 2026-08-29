@@ -38,9 +38,9 @@ I love tackling complex problems, learning new skills, and collaborating with di
 
 ## Connect With Me 🌐
 
-* 💼 **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/swabira-mayanja/))
-* 📧 **Email:** [your.email@example.com](mailto:swabiramayanja3@gmail.com)
-* 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
+* 💼 **LinkedIn:** [Swabira Mayanja](https://www.linkedin.com/in/swabira-mayanja/)
+* 📧 **Email:** [swabiramayanja3@gmail.com](mailto:swabiramayanja3@gmail.com)
+* 🐦 **Twitter:** [@swabira_](https://x.com/swabira_)
 
 
 ![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ltY2lvZncydDB1cXpxMmk2cnVqMjM4eDFpOGlwM2Uxd3R6bXIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
