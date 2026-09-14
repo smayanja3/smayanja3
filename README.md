@@ -1,7 +1,5 @@
 # Hi there, I'm Swabira! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I am a Software Engineer with a background in health science, social work, and healthcare administration. Across every role, my focus has remained constant: solving problems, driving efficiency, and delivering meaningful community impact.
