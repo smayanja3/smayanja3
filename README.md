@@ -33,6 +33,7 @@ When I'm not coding, you'll probably find me **running miles**, geeking out over
 
 ## Connect With Me 🌐
 
+* 🌐 **Portfolio:** [Swabira Mayanja](https://portfoliomayanja.netlify.app/)
 * 💼 **LinkedIn:** [Swabira Mayanja](https://www.linkedin.com/in/swabira-mayanja/)
 * 📧 **Email:** [swabiramayanja3@gmail.com](mailto:swabiramayanja3@gmail.com)
 * 🐦 **Twitter:** [@swabira_](https://x.com/swabira_)
