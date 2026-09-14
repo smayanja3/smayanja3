@@ -2,18 +2,15 @@
 
 ## About Me 🚀
 
-I am a Software Engineer with a background in health science, social work, and healthcare administration. Across every role, my focus has remained constant: solving problems, driving efficiency, and delivering meaningful community impact.
+I'm a **Software Engineer** with a background in health science, social work, and healthcare. My path into tech wasn't exactly linear, but **problem-solving** has always been at the center of what I do.
 
-My journey into tech wasn't linear:
+While working in healthcare, I often found myself noticing outdated systems and thinking, *"There has to be a better way to do this."* My real pivot into tech came while building a small business during the pandemic. Somewhere between choosing colors, designing pages, and bringing a website to life, I realized building the website was my favorite part of the entire process.
 
-  🌱 The Initial Spark: Although I enjoyed computer science coursework in high school and college, I initially held a narrow view of what a career in tech could be.
+Now, I get to turn those *"there has to be a better way"* moments into solutions I can actually build. 💻
 
-  🌱 The Pivot: While launching a small business during the COVID-19 pandemic, I discovered that designing and building the website was the most compelling part of the entire enterprise.
+My background taught me to lead with **empathy**, understand what people truly need, and think about the human being on the other side of a system. I bring that same perspective into the software and web experiences I create—and I've developed a particular love for **CSS and design** along the way. 🎨
 
-  🌱 The Commitment: Inspired by that creative process and seeing the real-world impact of software engineering firsthand, I made the deliberate decision to pivot into technology.
-
-My prior experience in healthcare and social work gives me a unique perspective on user needs, systems thinking, and empathetic design. 
-I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+When I'm not coding, you'll probably find me **running miles**, geeking out over **stationery**, or discovering that running and debugging involve a surprisingly similar amount of voluntary suffering. 🏃🏾‍♀️💻
 
 ---
 
