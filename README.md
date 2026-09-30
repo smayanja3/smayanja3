@@ -16,14 +16,6 @@ My background taught me to lead with **empathy** and think about the human being
 - ⚡ **Fun fact:** I sing, and I'm a proud Muji minimalist for life ✍️. Running and debugging involve a surprisingly similar amount of voluntary suffering. 🏃🏾‍♀️ But I still choose to do both.
 ---
 
-## What I'm Up To 🛠️
-
-* 🔭 **Currently Building:** Responsive web applications for small businesses.
-* 🌱 **Currently Learning:** JavaScript & TypeScript.
-* ⚡ **Fun Fact:** When I'm not coding, you'll find me running, singing, or obsessing over stationery. (Proud Muji minimalist for life! ✍️✨)
-
----
-
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
