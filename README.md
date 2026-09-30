@@ -28,7 +28,7 @@ My background taught me to lead with **empathy** and think about the human being
 
 ## Connect With Me 🌐
 
-* 🌐 **Portfolio:** [mayanjaswabira.netlify.app/](https://mayanjaswabira.netlify.app/)
+* 🌐 **Portfolio:** [swabira-mayanja.vercel.app/](https://swabira-mayanja.vercel.app/)
 * 💼 **LinkedIn:** [linkedin.com/in/swabira-mayanja/](https://www.linkedin.com/in/swabira-mayanja/)
 * 📧 **Email:** [swabiramayanja3@gmail.com](mailto:swabiramayanja3@gmail.com)
 * 🐦 **Twitter:** [x.com/swabira](https://x.com/swabira_)
