@@ -6,7 +6,7 @@ I'm a **Software Engineer** with a background in health science, social work, an
 
 In healthcare, I kept noticing outdated systems and thinking, *"There has to be a better way."* My pivot came while building a small business during the pandemic. Somewhere between choosing colors and designing pages, I realized building the website was my favorite part. Now I turn those "better way" moments into things I can actually build. 💻
 
-My background taught me to lead with **empathy** and think about the human being on the other side of a system. I bring that to everything I make, along with a serous love for CSS and design 🎨
+My background taught me to lead with **empathy** and think about the human being on the other side of a system. I bring that to everything I make, along with a serious love for CSS and design 🎨
 
 ---
 
