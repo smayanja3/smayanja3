@@ -1,4 +1,4 @@
-# Hi there, I'm Swabira! 👋
+# Hi there, I'm Swabira! 👋🏾
 
 ## About Me 🚀
 
