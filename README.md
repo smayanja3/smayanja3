@@ -12,9 +12,10 @@ My background taught me to lead with **empathy** and think about the human being
 
 ## What I'm Up To 🛠️
 
-- 🔭 **Building:** Responsive web apps for small businesses
-- 🌱 **Learning:** JavaScript & TypeScript
-- ⚡ **Fun fact:** I sing, and I'm a proud Muji minimalist for life ✍️. Running and debugging involve a surprisingly similar amount of voluntary suffering. 🏃🏾‍♀️ But I still choose to do both.
+🌱 Learning: Backend development with Node.js & TypeScript
+🌱 Learning: Building APIs and server-side apps with Node.js
+🌱 Sharpening: Node.js, TypeScript, and database design
+
 ---
 
 ## My Skills 🧠
