@@ -12,9 +12,9 @@ My background taught me to lead with **empathy** and think about the human being
 
 ## What I'm Up To 🛠️
 
-🌱 Learning: Backend development with Node.js & TypeScript
-🌱 Learning: Building APIs and server-side apps with Node.js
-🌱 Sharpening: Node.js, TypeScript, and database design
+- 🌱 Learning: Backend development with Node.js & TypeScript
+- 🌱 Learning: Building APIs and server-side apps with Node.js
+- 🌱 Sharpening: Node.js, TypeScript, and database design
 
 ---
 
